@@ -9,7 +9,7 @@ return {
       },
     },
   },
-  -- because we set to transparent, update nvim-notify background to stop warning from showing up
+  -- i set my terminal to transparent :)
   {
     "rcarriga/nvim-notify",
     opts = {
