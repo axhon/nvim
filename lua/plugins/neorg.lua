@@ -15,6 +15,11 @@ return {
               },
             },
           },
+          ["core.journal"] = {
+            config = {
+              workspace = "notes",
+            },
+          },
         },
       })
     end,
