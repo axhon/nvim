@@ -65,6 +65,13 @@ return {
           desc = "Toggle Todo",
         },
         {
+          "<leader>zz",
+          function()
+            telekasten.panel()
+          end,
+          desc = "Panel",
+        },
+        {
           "<leader>z",
           name = "+Telekasten",
           desc = "Telekasten",
